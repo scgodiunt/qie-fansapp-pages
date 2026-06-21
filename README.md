@@ -1,2 +1,14 @@
 # qie-fansapp-pages
-HTML page archive and documentation
+
+页面文件归档说明
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 结尾说明
+
+本 README 用于说明仓库用途，页面内容以独立 HTML 文件为准。
